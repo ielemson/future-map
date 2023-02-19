@@ -12,7 +12,7 @@
 @section('content')
      {{-- Header Starts --}}
      @include('frontend.includes.nav')
-     @include('frontend.includes.banner')
+     @include('frontend.includes.banner',['banner_header'=>'Sign Up'])
      {{-- Header Ends --}}
 
 

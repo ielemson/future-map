@@ -226,12 +226,40 @@
                                 Contact Us
                             </a>
                         </li>
+
+                        <li class="nav-item">
+                            <a href="#" class="nav-link dropdown-toggle">
+                                User
+                            </a>
+                            <ul class="dropdown-menu">
+                               @auth
+                               <li class="nav-item">
+                                <a href="{{route('home')}}" class="nav-link">Dashboard</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{route('logout')}}" class="nav-link">Logout</a>
+                            </li>
+
+                            @else
+                            <li class="nav-item">
+                                <a href="{{route('login')}}" class="nav-link">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{route('register')}}" class="nav-link">Register</a>
+                            </li>
+                            @endauth
+                            </ul>
+                        </li>
                     </ul>
-                    <div class="others-options d-flex align-items-center">
+                   {{-- @auth
+                  
+                       @else
+                       <div class="others-options d-flex align-items-center">
                         <div class="optional-item">
                             <a href="{{route('register')}}" class="default-btn two border-radius-5">Sign Up</a>
                         </div>
                     </div>
+                   @endauth --}}
                 </div>
             </nav>
         </div>

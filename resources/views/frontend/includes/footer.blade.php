@@ -5,7 +5,7 @@
                 <div class="footer-widget">
                     <div class="footer-logo">
                         <a href="index.html">
-                            <img src="{{asset('frontend/images/logos/logo-2.png')}}" alt="Images">
+                            <img src="{{asset('frontend/images/logos/logo-small.png')}}" alt="footer logo" style="width:100%; height:5vw">
                         </a>
                     </div>
                     <p>
@@ -138,8 +138,8 @@
                     Copyright @
                     <script>
                         document.write(new Date().getFullYear())
-                    </script> <b>Hash360</b> All Rights Reserved
-                    <a href="https://ielemson.com/" target="_blank">ielemson</a>
+                    </script> <b>Future Map</b> All Rights Reserved
+                    <a href="https://ielemson.com/" target="_blank">Hash360</a>
                 </p>
             </div>
         </div>
