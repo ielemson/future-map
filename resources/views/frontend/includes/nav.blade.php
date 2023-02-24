@@ -15,7 +15,7 @@
     <div class="desktop-nav nav-area">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-md navbar-light ">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="{{url('/')}}">
                     <img src="{{asset('frontend/images/logos/logo.png')}}" class="logo-one" alt="Logo" style="width: 100%; height:4vw">
                     <img src="{{asset('frontend/images/logos/logo.png')}}" class="logo-two" alt="Logo">
                 </a>

@@ -15,10 +15,9 @@ class VerifyInstallation
      */
     public function handle($request, Closure $next)
     {
-        if (!file_exists(storage_path('installed')) && !$request->is('install*')) {
-          return redirect('install');
-        }
-
+        // if (!file_exists(storage_path('installed')) && !$request->is('install*')) {
+        //   return redirect('install');
+        // }
         return $next($request);
     }
 }
