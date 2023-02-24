@@ -9,13 +9,15 @@
             <div class="col-lg-6">
                 <div class="banner-content">
                     <span data-aos="fade-up" data-aos-delay="900" data-aos-duration="1000"
-                        data-aos-once="true">FOR A BETTER FUTURE</span>
+                        data-aos-once="true">Welcome To</span>
                     <h1 data-aos="fade-down" data-aos-delay="900" data-aos-duration="1000" data-aos-once="true">
-                        Discover the most exciting online courses</h1>
+                        FEATURE MAP MEDIA CONCEPTS</h1>
                     <p data-aos="fade-up" data-aos-delay="900" data-aos-duration="1000" data-aos-once="true">
-                        Flexible easy to access learning opportunities can bring a significant change in how
-                        individuals prefer to learn! The Ellen can offer you to enjoy the beauty of eLearning!</p>
-                    <div class="banner-form-area" data-aos="fade-down" data-aos-delay="900"
+                    Building human capitals and creating market fields. <br>
+                    Our system is built on the values of proficiency, fidelity, humanity, vision and service.
+
+                    </p>
+                    {{-- <div class="banner-form-area" data-aos="fade-down" data-aos-delay="900"
                         data-aos-duration="1000" data-aos-once="true">
                         <form class="banner-form" data-toggle="validator" method="POST">
                             <input type="email" class="form-control" placeholder="Search your courses"
@@ -24,8 +26,8 @@
                                 <i class="ri-search-line"></i> Search now
                             </button>
                         </form>
-                    </div>
-                    <div class="row">
+                    </div> --}}
+                    {{-- <div class="row">
                         <div class="col-lg-3 col-4 col-sm-3">
                             <div class="banner-counter" data-aos="fade-up" data-aos-delay="900"
                                 data-aos-duration="1000" data-aos-once="true">
@@ -47,7 +49,7 @@
                                 <p>Courses</p>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
             <div class="col-lg-6">

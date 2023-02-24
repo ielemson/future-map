@@ -9,15 +9,16 @@
                         </a>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet, consec tetur
-                        adipiscing elit eiusmod tempor incididunt
-                        labore dolore magna aliqua consec tetur
-                        adipiscing elite sed do labor.
+                        The Future Map Media Concepts Limited is a 
+                        world-class media organization based in Nigeria.
+                        It was registered in October 2021 by Corporate
+                        Affairs Commission, Nigeria.
+
                     </p>
                     <ul class="social-link">
                         <li class="social-title">Follow Us:</li>
                         <li>
-                            <a href="https://www.facebook.com/" target="_blank">
+                            <a href="https://www.facebook.com/fmapmed/" target="_blank">
                                 <i class="ri-facebook-fill"></i>
                             </a>
                         </li>
@@ -39,27 +40,27 @@
                     <h3>About us</h3>
                     <ul class="footer-list">
                         <li>
-                            <a href="about.html">
+                            <a href="#">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="signup.html">
+                            <a href="#">
                                 Instructor registration
                             </a>
                         </li>
                         <li>
-                            <a href="instructors.html">
+                            <a href="#">
                                 Instructors
                             </a>
                         </li>
                         <li>
-                            <a href="event.html">
+                            <a href="#">
                                 Our Event
                             </a>
                         </li>
                         <li>
-                            <a href="courses-list.html">
+                            <a href="#">
                                 Courses List
                             </a>
                         </li>
@@ -71,27 +72,27 @@
                     <h3>Resources</h3>
                     <ul class="footer-list">
                         <li>
-                            <a href="index.html">
+                            <a href="{{url('/')}}">
                                 Home
                             </a>
                         </li>
                         <li>
-                            <a href="courses.html">
+                            <a href="#">
                                 Courses
                             </a>
                         </li>
                         <li>
-                            <a href="blog.html">
+                            <a href="#">
                                 Our Blog
                             </a>
                         </li>
                         <li>
-                            <a href="terms-condition.html">
+                            <a href="#">
                                 Terms & conditions
                             </a>
                         </li>
                         <li>
-                            <a href="privacy-policy.html">
+                            <a href="#">
                                 Privacy Policy
                             </a>
                         </li>
@@ -106,7 +107,9 @@
                             <i class="ri-map-pin-2-fill"></i>
                             <div class="content">
                                 <h4>Location:</h4>
-                                <span>2976 Sunrise Road Las Vegas</span>
+                                <span>
+                                    60 Lome Crescent, Wuse Zone 7, FCT Abuja 
+                                </span>
                             </div>
                         </li>
                         <li>
@@ -114,16 +117,15 @@
                             <div class="content">
                                 <h4>Email:</h4>
                                 <span><a
-                                        href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#2a424f4646456a464f4e5f04494547"><span
-                                            class="__cf_email__"
-                                            data-cfemail="b9d1dcd5d5d6f9d5dcddcc97dad6d4">[email&#160;protected]</span></a></span>
+                                        href="#"><span
+                                            class="__cf_email__">fmap-abuja@fmapmedia.com</span></a></span>
                             </div>
                         </li>
                         <li>
                             <i class="ri-phone-fill"></i>
                             <div class="content">
                                 <h4>Phone:</h4>
-                                <span><a href="tel:098765432150">098765432150</a></span>
+                                <span><a href="tel:098765432150">07062990717, 09122136204</a></span>
                             </div>
                         </li>
                     </ul>

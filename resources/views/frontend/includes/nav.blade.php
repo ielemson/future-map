@@ -35,35 +35,35 @@
                             Categories
                         </button>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButtoncategory">
-                            <a href="courses-details.html" class="nav-link-item">
+                            <a href="#" class="nav-link-item">
                                 <i class="flaticon-web-development"></i>
                                 Development
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-design"></i>
                                 Web designing
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-wellness"></i>
                                 Lifestyle
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-heart-beat"></i>
                                 Health & fitness
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-folder"></i>
                                 Data science
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-user"></i>
                                 Accounting
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-camera"></i>
                                 Photography
                             </a>
-                            <a href="courses-details.html">
+                            <a href="#">
                                 <i class="flaticon-corporate"></i>
                                 Marketing
                             </a>
@@ -79,7 +79,7 @@
                             </a>
                            
                         </li>
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a href="#" class="nav-link dropdown-toggle">
                                 Pages
                             </a>
@@ -174,29 +174,29 @@
                                     </a>
                                 </li>
                             </ul>
-                        </li>
+                        </li> --}}
                         <li class="nav-item">
                             <a href="#" class="nav-link dropdown-toggle">
                                 Courses
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                    <a href="courses.html" class="nav-link">
+                                    <a href="#" class="nav-link">
                                         Courses
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="courses-list.html" class="nav-link">
+                                    <a href="#" class="nav-link">
                                         Courses List
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="courses-sidebar.html" class="nav-link">
+                                    <a href="#" class="nav-link">
                                         Courses Sidebar
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="courses-details.html" class="nav-link">
+                                    <a href="#" class="nav-link">
                                         Courses Details
                                     </a>
                                 </li>
@@ -208,10 +208,10 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                    <a href="event.html" class="nav-link">Event</a>
+                                    <a href="#" class="nav-link">Event</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="event-details.html" class="nav-link">Event Details</a>
+                                    <a href="#" class="nav-link">Event Details</a>
                                 </li>
                             </ul>
                         </li>
@@ -222,7 +222,7 @@
                            
                         </li>
                         <li class="nav-item">
-                            <a href="contact.html" class="nav-link">
+                            <a href="#" class="nav-link">
                                 Contact Us
                             </a>
                         </li>
